@@ -12,4 +12,4 @@
 
 ## Open in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shubhammehta5315/VOICEcloner/blob/main/VOICEcloner.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/VOICEcloner/blob/main/VOICEcloner.ipynb)
