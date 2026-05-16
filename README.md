@@ -11,6 +11,6 @@
 - T4 GPU Optimized
 
 ## Open in Google Colab
-Replace YOUR_USERNAME after uploading to GitHub:
 
-https://colab.research.google.com/github/YOUR_USERNAME/VOICEcloner/blob/main/VOICEcloner.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/VOICEcloner/blob/main/VOICEcloner.ipynb)
+
