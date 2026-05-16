@@ -20,18 +20,24 @@
 
 ## One-Click Persistent Setup
 from google.colab import drive
+
 import os
 
 print("🔗 Mounting Google Drive...")
+
 drive.mount('/content/drive')
 
 CACHE_DIR = '/content/drive/MyDrive/VOICEcloner_cache'
+
 os.makedirs(CACHE_DIR, exist_ok=True)
 
 os.environ['HF_HOME'] = CACHE_DIR
+
 os.environ['TRANSFORMERS_CACHE'] = CACHE_DIR
+
 os.environ['HUGGINGFACE_HUB_CACHE'] = CACHE_DIR
 
 print(f"✅ Persistent cache enabled: {CACHE_DIR}")
+
 print("🚀 Future launches will be MUCH faster.")
 
