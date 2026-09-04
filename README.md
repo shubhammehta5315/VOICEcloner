@@ -12,7 +12,7 @@
 
 ## Open in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shubhammehta5315/VOICEcloner/blob/main/VoxCPM2_Gradio_Colab_Blackbox_security.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shubhammehta5315/VOICEcloner/blob/main/VoxCPM2_Gradio_Colab_Blackbox_security1.ipynb)
 
 
 
